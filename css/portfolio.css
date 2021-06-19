@@ -1,0 +1,122 @@
+.header{
+    background-color: black;
+    height: 120px;
+}
+.logo_header{
+    height: 80px;
+    margin-left: 20px;
+    margin-top: 18px;
+    width: 80px;
+}
+.list_header{
+    position: relative;
+}
+.header_list{
+    color: blue;
+    cursor: pointer;
+    float: right;
+    font-weight: 500;
+    font-size: large;
+    list-style: none;
+    padding-left: 50px;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.header_list:hover{
+    color: #FF8000;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.footer{
+    background-color: black;
+    height: 120px;
+}
+.list_footer{
+    padding-top: 35px;
+}
+.footer_list{
+    display: inline;
+    list-style: none;
+}
+.footer_list img{
+    height: 40px;
+    width: 40px;
+}
+.logo_footer{
+    height: 50px;
+    padding-left: 450px;
+    width: 50px;
+}
+#copy{
+    color: white;
+    float: right;
+    margin-top: -35px;
+}
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+p{
+    list-style: none;
+}
+#repos li{
+    list-style: none;
+}
+#repos li a{
+    text-decoration: underline;
+    color: black;
+}
+.repos_list{
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    height: 35px;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 600px;
+}
+.title{
+    color: #FF8000;
+    padding-top: 20px;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
+#img_1{
+    border-radius: 10px;
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -2900px;
+    position: relative;
+}  
+#img_2{
+    border-radius: 10px;
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -2300px;
+    position: relative;
+}
+#img_3{
+    border-radius: 10px;
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -1700px;
+    position: relative;
+}
+#img_4{
+    border-radius: 10px;
+    float:right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -1100px;
+    position: relative;
+}
+#img_5{
+    border-radius: 10px;
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -500px;
+    position: relative;
+}

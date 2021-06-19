@@ -1,0 +1,87 @@
+.header{
+    background-color: black;
+    height: 120px;
+}
+.logo_header{
+    height: 80px;
+    margin-left: 20px;
+    margin-top: 18px;
+    width: 80px;
+}
+.list_header{
+    position: relative;
+}
+.header_list{
+    color: blue;
+    cursor: pointer;
+    float: right;
+    font-weight: 500;
+    font-size: large;
+    list-style: none;
+    padding-left: 50px;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.header_list:hover{
+    color: #FF8000;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.footer{
+    background-color: black;
+    height: 120px;
+}
+.list_footer{
+    padding-top: 35px;
+}
+.footer_list{
+    display: inline;
+    list-style: none;
+}
+.footer_list img{
+    height: 40px;
+    width: 40px;
+}
+.logo_footer{
+    height: 50px;
+    padding-left: 450px;
+    width: 50px;
+}
+#copy{
+    color: white;
+    float: right;
+    margin-top: -35px;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+#me{
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.info{
+    float: right;
+    font-weight: lighter;
+    margin-right: 413px;
+    margin-top: 30px;
+    position: relative;
+    width: 600px;
+}
+.info_me{
+    color: black;
+    font-weight: 500;
+}
+.info_paragraph{
+    color: black;
+    float: right;
+    margin-right: 170px;
+    margin-top: -480px;
+}
+.link_portfolio{
+    color: #FF8000;
+    font-size:large;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
